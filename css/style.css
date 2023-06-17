@@ -32,7 +32,7 @@ section::before
   position:absolute;
   width:100%;
   height:100%;
-  background:linear-gradient(#000,#000fff,#000);
+  background:linear-gradient(#000,#00ffff,#000);
   animation:animate 5s linear infinite;
 }
 @keyframes animate
@@ -71,7 +71,7 @@ section .signin
   justify-content:center;
   align-items:center;
   padding:40px;
-  border-radius:4px;
+  border-radius:2px;
   box-shadow:0 15px 35px rgba(0,0,0,0.5);
 }
 section .signin .content
@@ -87,10 +87,10 @@ section .signin .content
 section .signin .content h2
 {
   font-size: 2em;
-  color:#000fff;
+  color:rgba(75,241,250,1);
   text-transform:uppercase;
  }
-section .signin .content. form
+section .signin .content .form
 {
   width: 100%;
   display:flex;
@@ -175,6 +175,5 @@ section .signin .content .form .inputBx i
   height:calc(20vw - 2px) ;
   }
 }
-
 
 
