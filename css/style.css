@@ -58,7 +58,7 @@ section span
 }
 section span:hover
 {
-  background:#000fff;
+  background:rgba(75,241,250,1);
   transition:0s;
 }
 section .signin
@@ -146,13 +146,13 @@ section .signin .content .form .inputBx i
 }
 .signin .content .form .links a:nth-child(2)
 {
-  color:#000fff;
+  color:rgba(75,241,250,1);
   font-weigth: 600;
 }
 .signin .content .form .inputBx input[type="submit"]
 {
   padding:10px;
-  background:#000fff;
+  background:rgba(75,241,250,1);
   color:#111;
   font-weight:600;
   font-size:1.25em;
