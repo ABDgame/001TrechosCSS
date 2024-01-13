@@ -1,9 +1,6 @@
 # TELA DE LOGIN
 <img src="001.jpg" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
 
-# ObaPizzaria
-Trechos de códigos de um site responsivo de uma pizzaria, adaptado por MQJogos, desenvolvido com 1.4% de variáveis CSS, 1.3% de práticas JavaScript, 85.3% de elementos HTML e 12.0% de SCSS.  
-
 # CÓDIGO FONTE:
  - https://youtu.be/Ed0uh9Mbe8M?si=1E_S5oXFNIZ7xAFy
 
@@ -21,6 +18,12 @@ Trechos de códigos de um site responsivo de uma pizzaria, adaptado por MQJogos,
 - https://www.unsplash.com/
 - https://www.flaticon.com/
 - https://www.pngegg.com/
+
+# Redes Sociais:
+- https://www.instagram.com/mqjogos/
+- https://www.linkedin.com/in/debora-inocencio/
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://github.com/MQJogos
 
 
 
