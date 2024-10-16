@@ -2,7 +2,7 @@
 <img src="001.jpg" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
 
 # CÓDIGO FONTE:
- - https://youtu.be/Ed0uh9Mbe8M?si=1E_S5oXFNIZ7xAFy
+ - https://www.youtube.com/watch?v=0xpxZGJqBHU&t=76s
 
 # Color Palette:
  - https://mycolor.space
