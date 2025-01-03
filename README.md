@@ -23,7 +23,7 @@
 - https://www.instagram.com/mqjogos/
 - https://www.linkedin.com/in/debora-inocencio/
 - https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
-- https://github.com/MQJogos
+- https://github.com/ABDgame
 
 
 
